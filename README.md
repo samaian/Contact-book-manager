@@ -81,14 +81,22 @@ Run the program:
 Choose an option: 1
 
 Enter Name: Ahmed
+
 Enter Phone: 0109876543
+
 Enter Email: ahmed@gmail.com
+
 Enter Category (Friends / Family / Work): Work
+
 Contact added successfully!
 
 --------------------------------
 Name: Ahmed
+
 Phone: 0109876543
+
 Email: ahmed@gmail.com
+
 Category: Work
+
 --------------------------------
