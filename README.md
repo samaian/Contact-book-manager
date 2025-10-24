@@ -56,7 +56,7 @@ Compiler: g++
 
 Clone this repository:
 
-git clone https://github.com/YourUsername/contact-manager-cpp.git
+git clone https://github.com/samaian/Contact-book-manager-cpp.git
 
 
 Open the project in your IDE or terminal.
